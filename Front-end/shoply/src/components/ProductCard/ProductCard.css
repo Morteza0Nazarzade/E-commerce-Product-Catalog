@@ -1,0 +1,15 @@
+.card {
+  padding: 16px;
+  border-radius: 12px;
+  background: white;
+  transition: transform 0.2s ease;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+}
+
+.title {
+  font-size: 16px;
+  font-weight: 600;
+}
